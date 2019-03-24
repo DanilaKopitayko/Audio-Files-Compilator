@@ -18,9 +18,9 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>0</y>
-      <width>801</width>
-      <height>701</height>
+      <y>-10</y>
+      <width>841</width>
+      <height>671</height>
      </rect>
     </property>
     <property name="mouseTracking">
